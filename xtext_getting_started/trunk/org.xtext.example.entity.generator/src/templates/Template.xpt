@@ -1,11 +1,11 @@
-ÇIMPORT entityÈ;
+«IMPORT entity»;
 
-ÇEXTENSION templates::ExtensionsÈ
+«EXTENSION templates::Extensions»
 
-ÇDEFINE main FOR Model-È
-ÇFILE "output.txt"-È
-ÇFOREACH this.elements.typeSelect(Entity).sortBy(e|e.name) AS e-È
-Çe.nameÈ has Çe.listSubclasses()È.
-ÇENDFOREACH-È
-ÇENDFILE-È
-ÇENDDEFINEÈ
+«DEFINE main FOR Model-»
+«FILE "output.txt"-»
+«FOREACH this.elements.typeSelect(Entity).sortBy(e|e.name) AS e-»
+«e.name» has «e.listSubclasses()».
+«ENDFOREACH-»
+«ENDFILE-»
+«ENDDEFINE»
