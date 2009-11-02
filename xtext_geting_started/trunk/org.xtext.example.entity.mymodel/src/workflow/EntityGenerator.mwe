@@ -1,3 +1,0 @@
-<workflow>
-  <cartridge file="workflow/EntityGenerator.mwe" modelFile="classpath:/model/MyModel.entity"/>
-</workflow>
