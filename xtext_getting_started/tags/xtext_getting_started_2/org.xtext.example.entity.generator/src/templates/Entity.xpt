@@ -1,0 +1,21 @@
+«IMPORT entity»
+
+«DEFINE entity FOR entity::Entity»
+  «FILE this.name + ".java"»
+    public class «this.name» {
+      «EXPAND attribute FOREACH this.attributes»
+    }
+  «ENDFILE»
+«ENDDEFINE»
+
+«DEFINE attribute FOR Attribute»
+  private «this.type.name» «this.name»;
+
+  public void set«this.name.toFirstUpper()»(«this.type.name» «this.name») {
+    this.«this.name» = «this.name»;
+  }
+
+  public «this.type.name» get«this.name.toFirstUpper()»() {
+    return this.«this.name»;
+  }
+«ENDDEFINE»

@@ -1,0 +1,41 @@
+typedef String
+typedef Integer
+typedef Double
+typedef Date mapsto java.util.Date
+
+entity Customer {
+  String firstName
+  String lastName
+  String email
+  Address shippingAddress
+  Order* orders
+}
+
+entity Address {
+  String line1
+  String line2
+  String city
+  String postcode
+  String state
+  String country
+}
+
+entity Product {
+  String description
+  Double price
+}
+
+entity Book extends Product {
+  String ISBN
+  String author
+}
+
+entity Order {
+  Date orderDate
+  OrderLine* orderLines
+}
+
+entity OrderLine {
+  Product item
+  Integer amount
+}

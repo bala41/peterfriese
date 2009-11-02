@@ -1,0 +1,35 @@
+«IMPORT entity»
+
+«DEFINE dao FOR entity::Entity»
+  «FILE this.name + "DAO.java"»
+    import java.util.Collection;
+    import org.springframework.orm.hibernate3.support.HibernateDaoSupport;
+    public class «this.name»DAO
+      extends HibernateDaoSupport {
+      «EXPAND crud FOR this»
+    }
+  «ENDFILE»
+«ENDDEFINE»
+
+«DEFINE crud FOR Entity»
+  public «this.name» load(Long id) {
+    return («this.name»)getHibernateTemplate().get(«this.name».class, id);
+  }
+
+  @SuppressWarnings("unchecked")
+  public Collection<«this.name»> loadAll() {
+    return getHibernateTemplate().loadAll(«this.name».class);
+  }  
+
+  public «this.name» create(«this.name» entity) {
+    return («this.name») getHibernateTemplate().save(entity);
+  }
+
+  public void update(«this.name» entity) {
+    getHibernateTemplate().update(entity);
+  }
+
+  public void remove(«this.name» entity) {
+    getHibernateTemplate().delete(entity);
+  }
+«ENDDEFINE»

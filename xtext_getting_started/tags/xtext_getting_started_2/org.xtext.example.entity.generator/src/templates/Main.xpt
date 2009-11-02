@@ -1,0 +1,6 @@
+«IMPORT entity»
+
+«DEFINE main FOR Model»
+	«EXPAND Entity::entity FOREACH this.types.typeSelect(Entity)»
+	«EXPAND DAO::dao FOREACH this.types.typeSelect(Entity)»
+«ENDDEFINE»
