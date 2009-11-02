@@ -13,8 +13,9 @@
 	
 	<component class="org.eclipse.xpand2.Generator">
 		<metaModel class="org.eclipse.xtend.typesystem.emf.EmfRegistryMetaModel"/>
-		<fileEncoding value="MacRoman"/>
-		<expand value="templates::Template::main FOR model"/>
+		<fileEncoding value="ISO-8859-1"/>
+		<expand value="templates::Main::main FOR model"/>
 		<genPath value="${targetDir}"/>
+		<beautifier class="org.eclipse.xpand2.output.JavaBeautifier"/>
 	</component>
 </workflow>
