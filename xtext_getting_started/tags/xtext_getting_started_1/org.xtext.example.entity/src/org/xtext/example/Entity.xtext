@@ -1,0 +1,24 @@
+grammar org.xtext.example.Entity with org.eclipse.xtext.common.Terminals
+
+generate entity "http://www.xtext.org/example/Entity"
+
+Model:
+  (types+=Type)*;
+
+Type:
+  TypeDef | Entity;
+
+TypeDef:
+  "typedef" name=ID ("mapsto" mappedType=JAVAID)?;
+
+JAVAID:
+  name=ID("." ID)*;
+
+Entity:
+  "entity" name=ID ("extends" superEntity=[Entity])?
+  "{"
+    (attributes+=Attribute)*
+  "}";
+
+Attribute:
+  type=[Type] (many?="*")? name=ID;
