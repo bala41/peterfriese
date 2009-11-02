@@ -1,0 +1,22 @@
+typedef String
+typedef Integer
+typedef Date mapsto java.util.Date
+
+entity Person {
+  String name
+  String surName
+  Date birthDay
+  Address home
+  Address work
+}
+
+entity Boss extends Person {
+  Person* employees
+}
+
+entity Address {
+  String street
+  String number
+  String city
+  String ZIP
+}
