@@ -1,0 +1,9 @@
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m: In function '-[PomodoroFSM_Suspended pressPomodoro:]':
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m:95: warning: no '-startTimer:' method found
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m:95: warning: (Messages without a matching method signature
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m:95: warning: will be assumed to return 'id' and accept
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m:95: warning: '...' as arguments.)
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m: In function '-[PomodoroFSM_Running pressPomodoro:]':
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m:108: warning: no '-startTimer:' method found
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m: In function '-[PomodoroFSM_Done pressPomodoro:]':
+/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/Pomodoro_sm.m:145: warning: no '-startTimer:' method found
