@@ -1,0 +1,72 @@
+%class PomodoroViewController
+%include PomodoroViewController.h
+%package pomodoro
+
+%start PomodoroFSM::Suspended
+
+%map PomodoroFSM
+%%
+Suspended 
+	Entry {
+		pomodoroGray();
+		welcome();
+		saveAppState();
+	}
+	{
+		pressPomodoro	
+		Running	
+		{ }
+	}
+
+Running
+	Entry {
+		pomodoroRed();
+		startTimer(25);
+		saveAppState();
+	}
+	Exit {
+		stopTimer();
+	}
+	{
+		pressPomodoro
+		Suspended
+		{ }
+	
+		timeOut
+		Done
+		{ }
+	}
+
+Done
+	Entry {
+		ring();
+		pomodoroGray();
+		wellDone();
+		saveAppState();
+	}
+	{
+		pressPomodoro
+		Break 
+		{ }
+	}
+
+Break
+	Entry {
+		pomodoroGreen();	
+		startTimer(5);
+		saveAppState();
+	}
+	Exit {
+		ring();
+		stopTimer();
+	}
+	{
+		pressPomodoro
+		Suspended 
+		{ }
+		
+		timeOut
+		Suspended 
+		{ }
+	}
+%%

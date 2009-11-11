@@ -1,0 +1,515 @@
+TPomodoro
+v7
+r0
+t279667920.706690
+cCheck dependencies
+cProcessPCH /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch.gch Pomodoro_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+c<C0020:'CompileC PomodoroViewController_sm.o':P9:W0>
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004ABE051D00000000000000EE
+t1253967133
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB0000000000180330
+t1242410443
+s1573680
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004A0DADB6000000000000D5B9
+t1242410422
+s54713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AE30D6000000000000000EE
+t1256394080
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004ABDC8DB0000000000193960
+t1253951707
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004ABDC8C5000000000000E37C
+t1253951685
+s58236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroAppDelegate.h
+c000000004AE35A4100000000000001EF
+t1256413761
+s495
+i<UIKit/UIKit.h>
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroAppDelegate.m
+c000000004AD382F600000000000002B1
+t1255375606
+s689
+i"PomodoroAppDelegate.h"
+i"PomodoroViewController.h"
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.h
+c000000004AE35DEE00000000000003BB
+t1256414702
+s955
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioServices.h>
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.m
+c000000004AE36A010000000000001489
+t1256417793
+s5257
+i<AudioToolbox/AudioServices.h>
+i"PomodoroViewController.h"
+i"PomodoroViewController_sm.h"
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.sm
+c000000004AE3380D000000000000027F
+t1256405005
+s639
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.h
+c000000004AE33CDE0000000000000966
+t1256406238
+s2406
+i"statemap.h"
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m
+c000000004AE366C10000000000001339
+t1256416961
+s4921
+i"PomodoroViewController.h"
+i"PomodoroViewController_sm.h"
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/statemap.h
+c0000000049DEEEF20000000000000B8A
+t1239346930
+s2954
+i<Foundation/Foundation.h>
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/statemap.m
+c0000000049DEEEF20000000000001549
+t1239346930
+s5449
+i"statemap.h"
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/MainWindow.xib
+c000000004ABA9C4200000000000021A4
+t1253743682
+s8612
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro.xib
+c000000004ABBE9890000000000003BA2
+t1253829001
+s15266
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro_Prefix.pch
+c000000004A71FF8700000000000000CD
+t1248984967
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app
+t1257975109
+s442
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app.dSYM
+t1256417309
+s102
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Info.plist
+t1256414470
+s613
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/MainWindow.nib
+t1256414470
+s1509
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/PkgInfo
+t1256414470
+s8
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro
+t1256417309
+s43876
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro.nib
+t1256414470
+s3873
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/PomodoroViewController.s
+t2
+s0
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/PomodoroViewController.sm
+t1257975109
+s639
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/ring.wav
+t1256414470
+s442730
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/tomato_3_small.png
+t1256414470
+s93288
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/tomato_3_small_bw.png
+t1256414470
+s61454
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/tomato_3_small_green.png
+t1256414470
+s75739
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/tomato_logo.png
+t1256414470
+s6777
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/Pomodoro.LinkFileList
+c000000004AE35D0600000000000002FB
+t1256414470
+s763
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroAppDelegate.o
+t1256414716
+s38784
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController.o
+t1256417309
+s48024
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController_sm.o
+t1256417023
+s47552
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController_sm.s
+t1257975120
+s217908
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/main.o
+t1256414471
+s5992
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/statemap.o
+t1256414471
+s20528
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/main.m
+c000000004A71FF87000000000000016A
+t1248984967
+s362
+i<UIKit/UIKit.h>
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/ring.wav
+c000000004A1EE23A000000000006C16A
+t1243537978
+s442730
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small.png
+c000000004AB2B9120000000000016C68
+t1253226770
+s93288
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small_bw.png
+c000000004AB6A751000000000000F00E
+t1253484369
+s61454
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small_green.png
+c000000004AB7EEB800000000000127DB
+t1253568184
+s75739
+
+N/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_logo.png
+c000000004AB2BEA10000000000001A79
+t1253228193
+s6777
+
+N/var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-fidlrkghvjfyhkfrozalcgdievyx/Pomodoro_Prefix.pch.gch
+t1256395487
+s12957072
+
+N/var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch.gch
+t1256414471
+s13034960
+
+NInfo.plist
+c000000004ABA9C1F00000000000003CF
+t1253743647
+s975
+
+C<C0019:'CpResource PomodoroViewController.sm':P9:W0>
+s279667909.866567
+e279667909.937461
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pomodoro.app/PomodoroViewController.sm
+xClasses/PomodoroViewController.sm
+lSLF07#2@38"Copy Classes/PomodoroViewController.sm279667909#279667909#0(0"0(0#0#89"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.sm31244151918887020#529"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.sm /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app0#
+
+C<C0020:'CompileC PomodoroViewController_sm.o':P9:W0>
+s279667919.383536
+e279667920.706633
+r1
+xCompileC
+xbuild/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController_sm.o
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m279667919#279667920#0(0"0(0#0#91"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m8029196100855620608#2116"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-generated-files.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-own-target-headers.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-all-target-headers.hmap -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-project-headers.hmap -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/include -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources/i386 -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources -include /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch -S /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController_sm.s0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279667919#279667919#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroAppDelegate.o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278107516.407236
+e278107516.507802
+r1
+xCompileC
+xbuild/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroAppDelegate.o
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroAppDelegate.m278107516#278107516#0(0"0(0#0#85"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroAppDelegate.m4300885448#2104"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-generated-files.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-own-target-headers.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-all-target-headers.hmap -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-project-headers.hmap -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/include -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources/i386 -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources -include /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch -c /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroAppDelegate.m -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroAppDelegate.o0#
+
+CCompileC build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController.o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278110108.974133
+e278110109.080442
+r1
+xCompileC
+xbuild/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController.o
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.m278110108#278110109#0(0"0(0#0#88"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.m4300885448#2110"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-generated-files.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-own-target-headers.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-all-target-headers.hmap -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-project-headers.hmap -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/include -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources/i386 -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources -include /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch -c /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.m -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController.o0#
+
+CCompileC build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController_sm.o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278109823.515946
+e278109823.603811
+r1
+xCompileC
+xbuild/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController_sm.o
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m278109823#278109823#0(0"0(0#0#91"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m4300885448#2116"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-generated-files.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-own-target-headers.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-all-target-headers.hmap -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-project-headers.hmap -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/include -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources/i386 -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources -include /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch -c /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController_sm.m -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/PomodoroViewController_sm.o0#
+
+CCompileC build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/main.o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278107271.432463
+e278107271.528660
+r1
+xCompileC
+xbuild/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/main.o
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/main.m278107271#278107271#0(0"0(0#0#62"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/main.m4300885448#2066"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-generated-files.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-own-target-headers.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-all-target-headers.hmap -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-project-headers.hmap -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/include -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources/i386 -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources -include /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch -c /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/main.m -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/statemap.o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/statemap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s278107271.535914
+e278107271.640512
+r1
+xCompileC
+xbuild/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/statemap.o
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/statemap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/statemap.m278107271#278107271#0(0"0(0#0#74"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/statemap.m4300885448#2082"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-generated-files.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-own-target-headers.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-all-target-headers.hmap -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-project-headers.hmap -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/include -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources/i386 -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources -include /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch -c /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/statemap.m -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/statemap.o0#
+
+CCompileXIB /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/MainWindow.xib
+s278107270.035581
+e278107270.402332
+r1
+xCompileXIB
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib278107270#278107270#0(0"0(0#0#70"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/MainWindow.xib4300885448#534"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/MainWindow.nib /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/MainWindow.xib0#
+
+CCompileXIB /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro.xib
+s278107270.036361
+e278107270.562960
+r1
+xCompileXIB
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro.xib
+lSLF07#2@23"CompileXIB Pomodoro.xib278107270#278107270#0(0"0(0#0#68"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro.xib4300885448#530"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro.nib /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro.xib0#
+
+CCpResource build/Debug-iphonesimulator/Pomodoro.app/PomodoroViewController.sm Classes/PomodoroViewController.sm
+s278107270.410518
+e278107270.422731
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pomodoro.app/PomodoroViewController.sm
+xClasses/PomodoroViewController.sm
+lSLF07#2@38"Copy Classes/PomodoroViewController.sm278107270#278107270#0(0"0(0#0#89"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.sm4300885448#529"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Classes/PomodoroViewController.sm /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app0#
+
+CCpResource build/Debug-iphonesimulator/Pomodoro.app/ring.wav ring.wav
+s278107270.402422
+e278107270.505235
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pomodoro.app/ring.wav
+xring.wav
+lSLF07#2@13"Copy ring.wav278107270#278107270#0(0"0(0#0#64"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/ring.wav4300885448#504"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/ring.wav /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app0#
+
+CCpResource build/Debug-iphonesimulator/Pomodoro.app/tomato_3_small.png tomato_3_small.png
+s278107270.403461
+e278107270.492739
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pomodoro.app/tomato_3_small.png
+xtomato_3_small.png
+lSLF07#2@23"Copy tomato_3_small.png278107270#278107270#0(0"0(0#0#74"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small.png4300885448#514"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small.png /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app0#
+
+CCpResource build/Debug-iphonesimulator/Pomodoro.app/tomato_3_small_bw.png tomato_3_small_bw.png
+s278107270.407018
+e278107270.490244
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pomodoro.app/tomato_3_small_bw.png
+xtomato_3_small_bw.png
+lSLF07#2@26"Copy tomato_3_small_bw.png278107270#278107270#0(0"0(0#0#77"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small_bw.png4300885448#517"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small_bw.png /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app0#
+
+CCpResource build/Debug-iphonesimulator/Pomodoro.app/tomato_3_small_green.png tomato_3_small_green.png
+s278107270.408801
+e278107270.491312
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pomodoro.app/tomato_3_small_green.png
+xtomato_3_small_green.png
+lSLF07#2@29"Copy tomato_3_small_green.png278107270#278107270#0(0"0(0#0#80"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small_green.png4300885448#520"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_3_small_green.png /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app0#
+
+CCpResource build/Debug-iphonesimulator/Pomodoro.app/tomato_logo.png tomato_logo.png
+s278107270.405262
+e278107270.452449
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pomodoro.app/tomato_logo.png
+xtomato_logo.png
+lSLF07#2@20"Copy tomato_logo.png278107270#278107270#0(0"0(0#0#71"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_logo.png4300885448#511"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/tomato_logo.png /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app0#
+
+CGenerateDSYMFile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app.dSYM /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro
+s278110109.117564
+e278110109.144280
+r1
+xGenerateDSYMFile
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app.dSYM
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Pomodoro.app.dSYM build/Debug-iphonesimulator/Pomodoro.app/Pomodoro278110109#278110109#0(0"0(0#0#105"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro4300885448#437"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app.dSYM0#
+
+CLd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro normal i386
+s278110109.080541
+e278110109.117474
+r1
+xLd
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro
+xnormal
+xi386
+lSLF07#2@110"Link /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro278110109#278110109#0(0"0(0#0#0"4300885448#978"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -filelist /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Objects-normal/i386/Pomodoro.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Pomodoro0#
+
+CProcessInfoPlistFile /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Info.plist Info.plist
+s278107270.029587
+e278107270.035479
+r1
+xProcessInfoPlistFile
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist278107270#278107270#0(0"0(0#0#66"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Info.plist4300885448#524"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app/Info.plist0#
+
+CProcessPCH /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-fidlrkghvjfyhkfrozalcgdievyx/Pomodoro_Prefix.pch.gch Pomodoro_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278088286.840918
+e278088287.623870
+r1
+xProcessPCH
+x/var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-fidlrkghvjfyhkfrozalcgdievyx/Pomodoro_Prefix.pch.gch
+xPomodoro_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Pomodoro_Prefix.pch278088286#278088287#0(0"0(0#0#75"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro_Prefix.pch4300885448#1938"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-generated-files.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-own-target-headers.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-all-target-headers.hmap -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-project-headers.hmap -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/include -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources/i386 -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources -c /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro_Prefix.pch -o /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-fidlrkghvjfyhkfrozalcgdievyx/Pomodoro_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch.gch Pomodoro_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278107270.563085
+e278107271.432349
+r1
+xProcessPCH
+x/var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch.gch
+xPomodoro_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Pomodoro_Prefix.pch278107270#278107271#0(0"0(0#0#75"/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro_Prefix.pch4300885448#1940"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-generated-files.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-own-target-headers.hmap -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-all-target-headers.hmap -iquote /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/Pomodoro-project-headers.hmap -F/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/include -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources/i386 -I/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Pomodoro.build/Debug-iphonesimulator/Pomodoro.build/DerivedSources -c /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/Pomodoro_Prefix.pch -o /var/folders/Eb/Ebw-ThLGEu8xAjdsZLjBaE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pomodoro_Prefix-gkdenkcfkqunhtalseknjuwsqqme/Pomodoro_Prefix.pch.gch0#
+
+CTouch /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app
+s278110109.144366
+e278110109.147480
+r1
+xTouch
+x/Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app
+lSLF07#2@102"Touch /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app278110109#278110109#0(0"0(0#0#0"4300885448#313"    cd /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/peterfriese/Documents/Projects/Pomodoro/Pomodoro/build/Debug-iphonesimulator/Pomodoro.app0#
+
