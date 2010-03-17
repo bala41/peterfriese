@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<metamodel:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:metamodel="http://www.example.org/metamodel" xsi:schemaLocation="http://www.example.org/metamodel metamodel/metamodel.ecore">
+  <forms name="contact" description="Send your feedback" title="Contact Form">
+    <fields xsi:type="metamodel:TextField" name="name" label="Name"/>
+    <fields xsi:type="metamodel:TextField" name="email" label="EMail"/>
+    <fields xsi:type="metamodel:MultiLineTextField" name="message" label="Message"/>
+  </forms>
+</metamodel:Model>

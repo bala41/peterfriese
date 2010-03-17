@@ -1,0 +1,49 @@
+«IMPORT metamodel»
+
+«EXTENSION template::GeneratorExtensions»
+
+«DEFINE main FOR Model»
+«EXPAND form FOREACH forms»
+«ENDDEFINE»
+
+«DEFINE form FOR Form»
+«FILE name + ".html"»
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>«this.title»</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="stylesheet" type="text/css" href="../static/style.css" />
+</head>
+
+<body>
+	<div id="page-wrap">
+		<h1>«this.title»</h1><br /><br />
+		<p>«this.description»</p>
+		<div id="form-area">
+			<form method="post" action="form.php">
+				«EXPAND field FOREACH this.fields»
+				<input type="submit" name="submit" value="Submit" class="submit-button" />
+			</form>
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+</body>
+</html>
+«ENDFILE»
+«ENDDEFINE»
+
+«DEFINE field FOR Field»
+«ERROR "should not happen"»
+«ENDDEFINE»
+
+«DEFINE field FOR TextField»
+				<label for="«this.name»">«this.label»:</label>
+				<input type="text" name="«this.name»" id="«this.name»" />
+«ENDDEFINE»
+
+«DEFINE field FOR MultiLineTextField»
+				<label for="«this.name»">«this.label»:</label>
+				<textarea name="«this.name»" id="«this.name»" rows="20" cols="20"></textarea>
+«ENDDEFINE»
